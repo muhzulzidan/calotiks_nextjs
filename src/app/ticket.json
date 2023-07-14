@@ -1,0 +1,1408 @@
+[
+  {
+    "id": 1,
+    "headline": "First TIme In History",
+    "artistName": ["Dewa 19 All Stars"],
+    "location": "Jakarta",
+    "venue": "Gelora Bung Karno, DKI Jakarta",
+    "date": "12 Aug 2023",
+    "times": "19:00 - 23:00 WIB",
+    "description": ["DEWA 19 ALLSTAR"],
+    "termCondition": [
+      "Usia Penonton minimum 12 tahun keatas.",
+      "Jumlah maksimal tiket yang dapat dibeli dalam satu kali transaksi adalah 10 tiket dengan zona/kategori tiket yang sama.",
+      "Tersedia kategori tiket khusus disabilitas. Untuk pemesanan hanya bisa dilakukan dengan menghubungi Tiketing Otello Asia di WA 0821 1183 8285.",
+      "Harga tiket tidak termasuk pajak dan biaya layanan.",
+      "Untuk alasan keamanan, perempuan hamil dan lansia tidak diperbolehkan menonton di area Festival (berdiri bebas), dan diwajibkan membeli tiket di kategori duduk (seating).",
+      "Penukaran tiket : 10 Agustus - 12 Agustus 2023, di area Gelora Bung Karno.",
+      "Nomer kursi akan diberikan pada saat penukaran tiket di venue.",
+      "Wajib menunjukkan e-tiket dan kartu identitas asli sesuai dengan pemesan. Bila diwakilkan, diwajibkan membawa surat kuasa bermaterai dan kartu identitas asli pemesan.",
+      "Untuk jadwal penukaran tiket dan perkembangan informasi terbaru, silahkan follow akun media sosial instagram @otelloasia & @redline.kreasindo.",
+      "Pengunjung wajib menjaga protokol kesehatan yang berlaku.",
+      "Tiket yang sudah dibeli tidak dapat dikembalikan.",
+      "Tiket yang sudah dibeli tidak dapat diganti jadwalnya."
+    ],
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230530021930.png",
+    "posterUrl2": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/seating_chart/20230530024113.png",
+    "sale": [
+      {
+        "id": 1,
+        "category": "Presale 2 - CAT 1 A",
+        "price": 570000
+      },
+      {
+        "id": 2,
+        "category": "Presale 2 - CAT 1 B",
+        "price": 570000
+      },
+      {
+        "id": 3,
+        "category": "Presale 2 - CAT 2",
+        "price": 520000
+      },
+      {
+        "id": 4,
+        "category": "Presale 2 - CAT 3 A",
+        "price": 420000
+      },
+      {
+        "id": 5,
+        "category": "Presale 2 - CAT 3 B",
+        "price": 420000
+      },
+      {
+        "id": 6,
+        "category": "Presale 2 - CAT 4",
+        "price": 370000
+      },
+      {
+        "id": 7,
+        "category": "Presale 2 - Festival A1",
+        "price": 520000
+      },
+      {
+        "id": 8,
+        "category": "Presale 2 - Festival A2",
+        "price": 520000
+      },
+      {
+        "id": 9,
+        "category": "Presale 2 - Festival B1",
+        "price": 420000
+      },
+      {
+        "id": 10,
+        "category": "Presale 2 - Festival B2",
+        "price": 420000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "headline": "First TIme In History",
+    "artistName": ["Dewa 19 All Stars"],
+    "location": "Solo",
+    "venue": "Stadion Manahan, Jawa Tengah",
+    "date": "29 Jul 2023",
+    "times": "19:00 - 23:00 WIB",
+    "description": ["DEWA 19 ALLSTAR"],
+    "termCondition": [
+      "Usia Penonton minimum 12 tahun keatas.",
+      "Jumlah maksimal tiket yang dapat dibeli dalam satu kali transaksi adalah 10 tiket dengan zona/kategori tiket yang sama.",
+      "Tersedia kategori tiket khusus disabilitas. Untuk pemesanan hanya bisa dilakukan dengan menghubungi Tiketing Otello Asia di WA 0821 1183 8285.",
+      "Harga tiket tidak termasuk pajak dan biaya layanan.",
+      "Untuk alasan keamanan, perempuan hamil dan lansia tidak diperbolehkan menonton di area Festival (berdiri bebas), dan diwajibkan membeli tiket di kategori duduk (seating).",
+      "Penukaran tiket : 10 Agustus - 12 Agustus 2023, di area Gelora Bung Karno.",
+      "Nomer kursi akan diberikan pada saat penukaran tiket di venue.",
+      "Wajib menunjukkan e-tiket dan kartu identitas asli sesuai dengan pemesan. Bila diwakilkan, diwajibkan membawa surat kuasa bermaterai dan kartu identitas asli pemesan.",
+      "Untuk jadwal penukaran tiket dan perkembangan informasi terbaru, silahkan follow akun media sosial instagram @otelloasia & @redline.kreasindo.",
+      "Pengunjung wajib menjaga protokol kesehatan yang berlaku.",
+      "Tiket yang sudah dibeli tidak dapat dikembalikan.",
+      "Tiket yang sudah dibeli tidak dapat diganti jadwalnya."
+    ],
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230530021810.png",
+    "posterUrl2": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/seating_chart/20230530024048.png",
+    "sale": [
+      {
+        "id": 1,
+        "category": "Presale 2 - CAT 1 A",
+        "price": 470000
+      },
+      {
+        "id": 2,
+        "category": "Presale 2 - CAT 1 B",
+        "price": 470000
+      },
+      {
+        "id": 3,
+        "category": "Presale 2 - CAT 1 B",
+        "price": 470000
+      },
+      {
+        "id": 4,
+        "category": "Presale 2 - CAT 2",
+        "price": 420000
+      },
+      {
+        "id": 5,
+        "category": "Presale 2 - Festival A1",
+        "price": 420000
+      },
+      {
+        "id": 6,
+        "category": "Presale 2 - Festival A2",
+        "price": 420000
+      },
+      {
+        "id": 7,
+        "category": "Presale 2 - Festival B1",
+        "price": 320000
+      },
+      {
+        "id": 8,
+        "category": "Presale 2 - Festival B2",
+        "price": 320000
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "headline": "First TIme In History",
+    "artistName": ["Dewa 19 All Stars"],
+    "location": "Bandung",
+    "venue": "Stadion Si Jalak Harupat, Jawa Barat",
+    "date": "19 Aug 2023",
+    "times": "19:00 - 23:00 WIB",
+    "description": ["DEWA 19 ALLSTAR"],
+    "termCondition": [
+      "Usia Penonton minimum 12 tahun keatas.",
+      "Jumlah maksimal tiket yang dapat dibeli dalam satu kali transaksi adalah 10 tiket dengan zona/kategori tiket yang sama.",
+      "Tersedia kategori tiket khusus disabilitas. Untuk pemesanan hanya bisa dilakukan dengan menghubungi Tiketing Otello Asia di WA 0821 1183 8285.",
+      "Harga tiket tidak termasuk pajak dan biaya layanan.",
+      "Untuk alasan keamanan, perempuan hamil dan lansia tidak diperbolehkan menonton di area Festival (berdiri bebas), dan diwajibkan membeli tiket di kategori duduk (seating).",
+      "Penukaran tiket : 10 Agustus - 12 Agustus 2023, di area Gelora Bung Karno.",
+      "Nomer kursi akan diberikan pada saat penukaran tiket di venue.",
+      "Wajib menunjukkan e-tiket dan kartu identitas asli sesuai dengan pemesan. Bila diwakilkan, diwajibkan membawa surat kuasa bermaterai dan kartu identitas asli pemesan.",
+      "Untuk jadwal penukaran tiket dan perkembangan informasi terbaru, silahkan follow akun media sosial instagram @otelloasia & @redline.kreasindo.",
+      "Pengunjung wajib menjaga protokol kesehatan yang berlaku.",
+      "Tiket yang sudah dibeli tidak dapat dikembalikan.",
+      "Tiket yang sudah dibeli tidak dapat diganti jadwalnya."
+    ],
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230625091750.png",
+    "posterUrl2": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/seating_chart/20230625093006.png",
+    "sale": [
+      {
+        "id": 1,
+        "category": "Presale 2 - CAT 1 A",
+        "price": 470000
+      },
+      {
+        "id": 1,
+        "category": "Presale 2 - CAT 1 B",
+        "price": 470000
+      },
+      {
+        "id": 2,
+        "category": "Presale 2 - CAT 2",
+        "price": 370000
+      },
+      {
+        "id": 3,
+        "category": "Presale 2 - Festival A1",
+        "price": 370000
+      },
+      {
+        "id": 4,
+        "category": "Presale 2 - Festival A2",
+        "price": 370000
+      },
+      {
+        "id": 5,
+        "category": "Presale 2 - Festival B1",
+        "price": 270000
+      },
+      {
+        "id": 6,
+        "category": "Presale 2 - Festival B2",
+        "price": 270000
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "headline": "Bebaskan Energimu Konser",
+    "artistName": ["Noah"],
+    "location": "Surabaya",
+    "venue": "Parkir Timur Stadion Gelora Delta - Jawa Timur",
+    "date": "08 Jul 2023",
+    "times": "16:00 - 22:00 WIB",
+    "description": [
+      "Persembahan Konser musik kolaboratif dari Kratingdaeng Indonesia untuk Sahabat NOAH yang berada di kota Sidoarjo.",
+      "Bebaskan Energi, tuk Jalani Mimpi!"
+    ],
+    "termCondition": [
+      "Untuk mendapatkan tiket, Pembeli harus sudah divaksin minimal tahap kedua. terintegrasi dengan aplikasi peduli lindungi dan akan dicek sebelum masuk venue.",
+      "Tiket yang sah adalah tiket yang dibeli melalui official ticketing partner Loket."
+    ],
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230614121204.jpg",
+    "posterUrl2": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/tgroupbanner/20230614121240.jpg",
+    "sale": [
+      {
+        "id": 1,
+        "category": "Presale - Bebaskan Energimu Konser Sidoarjo",
+        "price": 50000
+      },
+      {
+        "id": 2,
+        "category": "Normal - Bebaskan Energimu Konser Sidoarjo",
+        "price": 75000
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "headline": "HIPHIPHURA FEST 2023",
+    "artistName": [
+      "Shaggy Dog",
+      "For Revenge",
+      "DJ Joana",
+      "Another Project",
+      "Rumput Laut",
+      "V.O.P",
+      "Homphimpha",
+      "UBC Dance",
+      "MC Rama & Deqi"
+    ],
+    "location": "Surabaya",
+    "venue": "Parkir Timur Stadion Gelora Delta - Jawa Timur",
+    "date": "08 Jul 2023",
+    "times": "09:00 - 23:00 WIB",
+    "description": [
+      "HIPHIPHURA FEST 2023",
+      "Tanggal acara 8 Juli 2023",
+      "Lapangan Arhanud - Jl. Pilang Raya, Cirebon, Jawa Barat, Indonesia",
+      "Live Performance :",
+      "Shaggy Dog",
+      "For Revenge",
+      "DJ Joana",
+      "Another Project",
+      "Rumput Laut",
+      "V.O.P",
+      "Homphimpha",
+      "UBC Dancer",
+      "MC Rama & Deqi",
+      "Kembali berdansa merayakan konser patah hati!",
+      "See you there!"
+    ],
+    "termCondition": [
+      "Tiket yang sah adalah yang dibeli melalui ticketing partner yang ditunjuk oleh pihak Hiphiphura Fest 2023.",
+      "Tiket dapat ditukarkan pada tanggal 08 Juli 2023 mulai dari pukul 13.00 WIB.",
+      "Harap membawa kartu identitas asli dan Tiket (E-Voucher) dari Loket.com pada saat penukaran tiket.",
+      "Penyelenggara berhak untuk melarang masuk pengunjung dengan alasan menganggu berlangsungnya acara.",
+      "Tiket yang sudah dibeli tidak dapat dikembalikan.",
+      "Harga tiket belum termasuk pajak.",
+      "Jika terjadi pembatalan acara, maka uang tiket akan dikembalikan sesuai dengan ketentuan penyelenggara.",
+      "Dilarang membawa dan menggunakan segala obat-obatan terlarang, narkoba, psikotropika, atau barang-barang yang mengandung zat berbahaya lainnya.",
+      "Dilarang membawa senjata tajam/api, bahan peledak, serta benda-benda yang dilarang berdasarkan ketentuan perundangan yang berlaku ke dalam venue.",
+      "Penyelenggara berhak untuk menolak masuk dan/atau mengeluarkan orang-orang yang tidak menaati syarat dan ketentuan acara.",
+      "Penyelenggara memiliki hak untuk mengubah ataupun menambahkan syarat-syarat di syarat & ketentuan tanpa pemberitahuan lebih dahulu."
+    ],
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230606104911_647eacb7e443f.jpg",
+    "sale": [
+      {
+        "id": 1,
+        "category": "Hiphiphura Fest 2023",
+        "price": 145000
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "headline": "SACUMPARAN FESTIVAL",
+    "artistName": [
+      "Tipe-X",
+      "Kangen Band",
+      "Last Child",
+      "Shaggy Dogg",
+      "Denny Caknan",
+      "Guyon Waton",
+      "Sheila On7",
+      "The Changcuters"
+    ],
+    "location": "Semarang",
+    "venue": "Stadion Diponegoro, Jawa Tengah",
+    "date": "08 Jul - 09 Jul 2023",
+    "times": "17:10 - 22:20 WIB",
+    "description": [
+      "Sacumparan Festival merupakan suguhan acara musik dengan guest star seperti Tipe-X, Kangen Band, Last Child, Shaggy Dogg, Denny Caknan, Guyon Waton, Sheila On7 & The Changcuters dengan konsep konser yang enjoy, asik dan pastinya memorable! Dapetin tiketmu sekarang juga guys!!"
+    ],
+    "termCondition": [
+      "Wajib menunjukkan kartu identitas untuk setiap pembelian tiket",
+      "Tiket yang sudah dibeli tidak dapat dikembalikan",
+      "Kami tidak bertanggung jawab atas kehilangan e-voucher ini",
+      "DILARANG MEMBAWA SENJATA ATAU OBAT-OBATAN",
+      "Penyelenggara berhak untuk tidak memberikan izin untuk masuk ke dalam tempat acara apabila syarat-syarat & ketentuan tidak dipenuhi"
+    ],
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230703145445_64a27ec5509b7.jpg",
+    "sale": [
+      {
+        "id": 1,
+        "category": "1DAY PASS",
+        "price": 150000
+      },
+      {
+        "id": 2,
+        "category": "2DAY PASS",
+        "price": 285000
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "headline": "VOL 04 Sewaktu Bermusik di Salju (Trans Snow World Surabaya)",
+    "artistName": ["Marcell Siahaan", "Isyana Sarasvati"],
+    "location": "Surabaya",
+    "venue": "Trans World Surabaya, Jawa Timur",
+    "date": "08 Jul - 09 Jul 2023",
+    "times": "17:00 - 21:00 WIB",
+    "description": [
+      "Sewaktu Bermusik: Popping Up Near You!",
+      "Celebrate an occasion exclusively tailored for you while listening to undiscovered sounds by Marcell Siahaan or Isyana Sarasvati. Enjoy unforgettable live music performances in surprising venues. Bring intimate performances to you and yours. Immerse yourself with additional interactive activities with the artists.",
+      "Intimate live music with top artist",
+      "Set in a unique place like no other",
+      "A once in a lifetime experience!"
+    ],
+    "termCondition": [
+      "1 (Satu) tiket hanya berlaku untuk 1 orang",
+      "1 Grup harus membeli kategori tiket yang sama jika ingin duduk bersamaan. Contoh: Tidak bisa 1 gold & 1 silver dan duduk di area Gold.",
+      "Tiket hanya dapat dipakai untuk hari dan tanggal yang tertera",
+      "Open gate akan dilakukan pukul 17.00 WIB atau 1 (satu) jam sebelum acara dimulai",
+      "Lokasi acara SEWAKTU di Trans Snow World Surabaya. Tempat parkir akan diarahkan oleh tim di lapangan",
+      "Tiket berlaku untuk semua umur",
+      "Pengunjung memastikan diri dalam kondisi sehat saat datang ke acara",
+      "Pengunjung dihimbau untuk melakukan vaksin minimal dosis kedua",
+      "Pengunjung diwajibkan memakai masker setiap saat",
+      "Penyelenggara akan meminjamkan ban dan slider untuk bermain perosotan salju dan kereta gantung.",
+      "Pengunjung tidak diperbolehkan membawa atau mengkonsumsi minuman keras, barang terlarang, dan rokok selama acara atau di sekitar lokasi acara",
+      "Pengunjung tidak diperbolehkan membawa hewan atau senjata tajam di sekitar lokasi acara",
+      "Pengunjung tidak diperbolehkan melakukan tindakan asusila atau prostitusi  selama acara atau di sekitar lokasi acara",
+      "Dilarang membawa makanan dan minuman dari luar. Makanan dan minuman dapat dibeli di venue acara. Apabila membawa makanan dan minuman dari luar maka akan disita oleh pihak penyelenggara",
+      "Tiket yang sudah dibeli tidak dapat dikembalikan, dibatalkan, maupun ditukar ke tanggal lain",
+      "Ticketing partner tidak mengakomodasi proses pembatalan atas pembelian tiket nonton yang dilakukan pengunjung kecuali dalam keadaan kahar (force majeure)",
+      "Pengunjung setuju untuk tidak menuntut kerugian dan menyalahkan penyelenggara dan karyawannya, afiliasi, staf dan mitra, dari dan terhadap setiap dan semua klaim, tuntutan, kewajiban, kerusakan atau kerugian termasuk biaya hukum, yang timbul sebagai akibat sehubungan dengan: (A) Perusakan properti atau fasilitas; (B) Pelanggaran pengunjung terhadap Syarat dan Ketentuan ini; (C) Pelanggaran hak atau kewajiban lainnya; dan atau (D) Setiap tindakan atau kelalaian oleh pengunjung, baik lalai, melanggar hukum atau lainnya.",
+      "Pengunjung bertanggung jawab atas keselamatan dan kepemilikan barang-barang pribadi selama acara berlangsung. Pihak penyelenggara tidak bertanggung jawab atas: (A) Kehilangan barang; (B) Kerusakan dan kerugian atas kepemilikan barang; (C) Cedera, Penyakit, serta Kematian; (D) Pelanggaran hukum dan tindakan kriminal yang dilakukan oleh pengunjung.",
+      "Pengunjung setuju bahwa pihak penyelenggara dapat menunda atau menghentikan acara jika diperlukan dengan alasan keamanan pengunjung. Jika ada pengumuman / perubahan jam buka acara – semua akan diinformasikan melalui akun Instagram @sewaktu___",
+      "Apabila terjadi hujan maka acara akan tetap berlangsung selama kondisi masih memungkinkan atau dapat ditunda sesuai dengan besarnya curah hujan",
+      "Dengan membuat pemesanan, pengunjung menerima dan setuju dengan syarat dan ketentuan serta peraturan pengunjung yang berlaku, termasuk yang berkaitan dengan kebijakan tentang pembatalan.",
+      "Segala jenis dokumentasi yang diambil oleh tim Sewaktu sudah disetujui oleh customer dan asset dokumentasi merupakan milik dari Sewaktu"
+    ],
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230613170712_64883fd04341f.jpg",
+    "sale": [
+      {
+        "id": 1,
+        "category": "Presale Silver 8 Juli : Marcell Siahaan",
+        "price": 235000
+      },
+      {
+        "id": 2,
+        "category": "Presale Silver 9 Juli : Isyana Sarasvati",
+        "price": 235000
+      },
+      {
+        "id": 3,
+        "category": "Silver 8 Juli : Marcell Siahaan",
+        "price": 285000
+      },
+      {
+        "id": 4,
+        "category": "Silver 9 Juli : Isyana Sarasvati",
+        "price": 285000
+      },
+      {
+        "id": 5,
+        "category": "Gold 8 Juli : Marcell Siahaan",
+        "price": 399000
+      },
+      {
+        "id": 6,
+        "category": "Gold 9 Juli : Isyana Sarasvati",
+        "price": 399000
+      },
+      {
+        "category": "VIP 8 Juli: Marcell Siahaan",
+        "price": 800000
+      },
+      {
+        "id": 7,
+        "category": "VIP 9 Juli : Isyana Sarasvati",
+        "price": 800000
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "headline": "DIGILAND 2023",
+    "artistName": [
+      "Melly Goeslaw",
+      "Padi Reborn",
+      "Nassar",
+      "Jamrud",
+      "Cokelat",
+      "OomLeo ft Smash & Mysterious Guest",
+      "Gigi ft Andi/RIF & Aryo Wahab",
+      "Wali",
+      " Nella Kharisma",
+      "Lyodra",
+      "Lomba Sihir",
+      "Pamungkas"
+    ],
+    "location": "Jakarta",
+    "venue": "ISTORA SENAYA JAKARTA, DKI Jakarta",
+    "date": "08 Jul - 09 Jul 2023",
+    "times": "10:00 - 22:00 WIB",
+    "description": [
+      "DIGItal LAND (Digiland) menjadi puncak selebrasi peringatan ulang tahun Telkom Indonesia. Pada perayaan ulang tahun ke-58 Telkom, Digiland 2023 mengusung tema “ELEVATING YOUR FUTURE” dengan menghadirkan conference dan music festival selama 2 hari berturut-turut.",
+      "Elevating Your Future” Conference menghadirkan 5 sesi dengan tema-tema yang menginspirasi bersama para praktisi profesional yang akan menjawab tantangan bisnis digital di masa depan. Tidak hanya itu, Digiland 2023 mengajak audiens berbagi pengalaman melalui art installation EXIST (Earth Immersive ESG Experience by Telkom Indonesia), Kids Land, beragam Instalasi Interaktif, serta UMKM Land dan Pasar Rakyat sebagai bentuk dukungan terhadap pondasi perekonomian Indonesia.",
+      "Digiland 2023 lebih dari sekedar music festival dengan berbagai kegiatan inspiratif, dan area-area yang seru untuk dikunjungi selama weekend bersama teman & keluarga."
+    ],
+    "termCondition": [""],
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230704120118.jpeg",
+    "sale": [
+      {
+        "id": 1,
+        "category": "GA PROMO - Student / Mahasiswa ( 9 July 2023 )",
+        "price": 58000
+      },
+      {
+        "id": 2,
+        "category": "GA - Public ( 9 July 2023 )",
+        "price": 158000
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "headline": "Bikin Panggung Di Kota Tetangga - Tangerang City",
+    "artistName": [
+      "The Cat Police",
+      "Loka'",
+      "Monkey to Millionaire",
+      "Morad",
+      "Sunwichn"
+    ],
+    "location": "Banten",
+    "venue": "Ruang Rumi, Banten",
+    "date": "12 Jul 2023",
+    "times": "18:00 - 23:45 WIB",
+    "description": [
+      "BIKIN PANGGUNG DI KOTA TETANGGA - Tangerang",
+      "Presented by Authenticity",
+      "Menampilkan: The Cat Police,Loka’, Monkey to Millionaire, Morad, Sunwich"
+    ],
+    "termCondition": [""],
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230702144339_64a12aab44648.jpg",
+    "sale": [
+      {
+        "id": 1,
+        "category": "Pre-Sale FDC",
+        "price": 69000
+      },
+      {
+        "id": 2,
+        "category": "Regular FDC",
+        "price": 99000
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "headline": "CRAYOLA EYES: Gushing Experience",
+    "artistName": [
+      "Bernardus Fritz",
+      "Yashinta Pattiasina'",
+      "Aghnia Azka Alkaff",
+      "Morad",
+      "Sunwichn"
+    ],
+    "location": "Jakarta",
+    "venue": "M Bloc Live House, DKI Jakarta",
+    "date": "14 Jul 2023",
+    "times": "18:00 - 22:00 WIB",
+    "description": [
+      "M Bloc Space dan Crayola Eyes mempersembahkan ‘Gushing Experience’: perayaan audiovisual album ‘Gushing’ yang dirilis pada 23 Februari 2023. Crayola Eyes akan menampilkan secara utuh album tersebut dengan melibatkan musisi-musisi tamu seperti Bernardus Fritz, Yashinta Pattiasina, dan Aghnia Azka Alkaff. Tidak hanya itu, album ‘Gushing’ juga akan diterjemahkan secara visual oleh desainer kenamaan, Azeten, sebagai visual jockey khusus penampilan Crayola Eyes kali ini.‘Gushing Experience’ akan turut diramaikan oleh band noise rock Jakarta, Negative Lovers, dan unit shoegaze asal Bandung, Heals."
+    ],
+    "termCondition": [
+      "Tiket Free Standing yang sah adalah yang dibeli melalui Loket.com.",
+      "Satu tiket berlaku untuk satu orang, satu kali masuk area venue.",
+      "Barcode yang dikirimkan dari loket.com ke email/whatsapp pembeli adalah tanggung jawab pembeli. Harap menjaga dan tidak menyebarluaskan barcode yang dimiliki.",
+      "Harap membawa kartu identitas asli dan tiket dari Loket.com pada saat memasuki venue.",
+      "Melarang masuk penonton jika tiket telah dipergunakan oleh orang lain.",
+      "Melarang masuk penonton ke area venue jika tiket yang digunakan tidak valid.",
+      "Harap mematuhi protokol keselamatan dan keamanan yang diterapkan penyelenggara di area venue",
+      "Pihak penyelenggara berhak menindak tegas, dan berhak mengeluarkan penonton apabila tidak mematuhi protokol yang telah ditetapkan.",
+      "Dilarang membawa makanan dan minuman dari luar ke dalam venue.",
+      "Dilarang membawa dan menggunakan segala obat-obatan terlarang, narkoba, psikotropika, atau barang-barang yang mengandung zat berbahaya lainnya.",
+      "Dilarang membawa senjata tajam/api, bahan peledak, serta benda-benda yang dilarang berdasarkan ketentuan perundangan yang berlaku ke dalam venue.",
+      "Dilarang membawa kamera profesional ke dalam venue (mirrorless, dslr, dan sejenisnya).",
+      "Dilarang melakukan monetasi konten pertunjukan musik ini tanpa persetujuan dari pemegang hak cipta.",
+      "Dilarang merokok, vaping di dalam venue, silakan merokok di area yang telah ditentukan."
+    ],
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230627115003_649a6a7bdfdd0.jpg",
+    "sale": [
+      {
+        "id": 1,
+        "category": "Pre-Sale FDC",
+        "price": 69000
+      },
+      {
+        "id": 2,
+        "category": "Regular FDC",
+        "price": 99000
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "headline": "KONSER WANITA HEBAT",
+    "artistName": [
+      "Bernardus Fritz",
+      "Yashinta Pattiasina'",
+      "Aghnia Azka Alkaff",
+      "Morad",
+      "Sunwichn"
+    ],
+    "location": "Jakarta",
+    "venue": "Ancol Beach City International, DKI Jakarta",
+    "date": "14 Jul 2023",
+    "times": "19:00 - 22:00 WIB",
+    "description": [
+      "Join us for an unforgettable evening of music and women empowerment at  'Wanita Hebat' concert! Prestige Promotions akan menampilkan beberapa penyanyi wanita paling berbakat dan berpengaruh di Indonesia saat ini dalam Konser “Wanita Hebat”. Bersiaplah terpukau dengan penampilan yang luar biasa dari Putri Ariani, Raisa, Tiara Andini, Titi DJ, Lesti Kejora, Brisia Jodie, dan Merry Riana.",
+      "Konser akbar ini akan berlangsung pada 14 Juli 2023, mulai pukul 19:00 hingga 23:00, di Beach City International Stadium Jakarta. Berbeda dengan konser-konser sebelumnya, kali ini Prestige Promotions secara khusus merancang acara musik yang imersif & inspiratif khusus untuk menampilkan Para Wanita Hebat.",
+      "Setiap artis memiliki ciri khas yang unik dan suara yang memesona, menjanjikan malam yang diisi dengan melodi yang menawan, vokal yang kuat, dan penampilan yang menyentuh hati. Dari balada yang penuh perasaan hingga pop hits yang energik, Konser Wanita Hebat akan menampilkan beragam genre musik, membuat penonton terkagum-kagum dengan bakat luar biasa yang ditampilkan",
+      "Selain musik yang memukau, konser ini juga merupakan perayaan pemberdayaan perempuan. Melalui lagu-lagu dan kisah-kisah inspiratif mereka, para wanita luar biasa ini akan menginspirasi dan membangkitkan semangat penonton, menyebarkan pesan tentang kekuatan, kemandirian, dan potensi wanita yang tak terbatas!",
+      "Don’t miss out! Putri Ariani, Raisa, Tiara Andini, Titi DJ, Lesti Kejora, Brisia Jodie, dan Merry Riana, semuanya dalam satu malam yang spektakuler.  Tiket terbatas, amankan kursi Anda sekarang dan jadilah bagian dari perayaan Konser “Wanita Hebat“. Bersiaplah untuk tergerak, termotivasi, dan terhibur para wanita luar biasa ini.",
+      "Sampai jumpa pada 14 Juli 2023 pukul 19:00!"
+    ],
+    "termCondition": [
+      "Tiket Free Standing yang sah adalah yang dibeli melalui Loket.com.",
+      "Satu tiket berlaku untuk satu orang, satu kali masuk area venue.",
+      "Barcode yang dikirimkan dari loket.com ke email/whatsapp pembeli adalah tanggung jawab pembeli. Harap menjaga dan tidak menyebarluaskan barcode yang dimiliki.",
+      "Harap membawa kartu identitas asli dan tiket dari Loket.com pada saat memasuki venue.",
+      "Melarang masuk penonton jika tiket telah dipergunakan oleh orang lain.",
+      "Melarang masuk penonton ke area venue jika tiket yang digunakan tidak valid.",
+      "Harap mematuhi protokol keselamatan dan keamanan yang diterapkan penyelenggara di area venue",
+      "Pihak penyelenggara berhak menindak tegas, dan berhak mengeluarkan penonton apabila tidak mematuhi protokol yang telah ditetapkan.",
+      "Dilarang membawa makanan dan minuman dari luar ke dalam venue.",
+      "Dilarang membawa dan menggunakan segala obat-obatan terlarang, narkoba, psikotropika, atau barang-barang yang mengandung zat berbahaya lainnya.",
+      "Dilarang membawa senjata tajam/api, bahan peledak, serta benda-benda yang dilarang berdasarkan ketentuan perundangan yang berlaku ke dalam venue.",
+      "Dilarang membawa kamera profesional ke dalam venue (mirrorless, dslr, dan sejenisnya).",
+      "Dilarang melakukan monetasi konten pertunjukan musik ini tanpa persetujuan dari pemegang hak cipta.",
+      "Dilarang merokok, vaping di dalam venue, silakan merokok di area yang telah ditentukan."
+    ],
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230625065940_6497836c85526.jpg",
+    "posterUrl2": "https://loket-production-sg.s3.ap-southeast-1.amazonaws.com/images/temporary/20230625/1687651113_duOKZd.jpg?eyJpdiI6ImppTVpiZjFza0xLbTFzSFBJdHJ1bXc9PSIsInZhbHVlIjoidWF3OGdxMFhcL210UE9qbmtwNUFJTENjRFNjZzdIR0xNN1wvdWhLVzQwblwvcndYMjBwOVBZMmhneDcrWElZTmdSWkJOUjBNdW5sVHJBUnJNdUtydkx2REgzRVo5akhaTENUR3BIbWh5bXZDSDRveG5PWmtLRHV0K3RMXC9yUUJvYkRWWGpXMHdPSFwvNnAzbnlQRElLWk50SUE9PSIsIm1hYyI6IjM2YmUyNTM0ZDY0Y2FiM2FiMTRmODk1Yzc0YTRmMWY0ZWQyMGE1MjFhNTczNzczMTcxNGY5NmUzZjI1NTkwMDgifQ==",
+    "sale": [
+      {
+        "id": 1,
+        "category": "FESTIVAL A (STANDING)",
+        "price": 542000
+      },
+      {
+        "id": 2,
+        "category": "FESTIVAL B (STANDING)",
+        "price": 380000
+      },
+      {
+        "id": 3,
+        "category": "CAT A (SEATING)",
+        "price": 515500
+      },
+      {
+        "id": 4,
+        "category": "CAT B (SEATING)",
+        "price": 407000
+      },
+      {
+        "id": 5,
+        "category": "CAT B - LEFT (SEATING)",
+        "price": 407000
+      },
+      {
+        "id": 6,
+        "category": "CAT C - LEFT (SEATING)",
+        "price": 271500
+      },
+      {
+        "id": 7,
+        "category": "CAT B - RIGHT (SEATING)",
+        "price": 407000
+      },
+      {
+        "id": 8,
+        "category": "CAT C - RIGHT (SEATING)",
+        "price": 271500
+      },
+
+      {
+        "id": 9,
+        "category": "VIP (SEATING)",
+        "price": 1085000
+      },
+      {
+        "id": 10,
+        "category": "SUPER VIP",
+        "price": 5425000
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "headline": "Indieplayground X-Project 2023",
+    "artistName": ["SHA", "Bilal Indrajaya", "dll"],
+    "location": "Bandar Lampung",
+    "venue": "Lampung City Mall, Lampung",
+    "date": "15 Jul 2023",
+    "times": "15:30 - 21:30 WIB",
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230705071745_64a4b6a9346c0.jpg",
+    "sale": [
+      {
+        "id": 1,
+        "category": "Presale Frontline",
+        "price": 120000
+      },
+      {
+        "id": 2,
+        "category": "Presale Featival",
+        "price": 85000
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "headline": "HORDES OF WARRIORS FEST",
+    "artistName": [
+      "EDANE",
+      "DEATH VOMIT",
+      "PURE WRATH",
+      "GRAUSIG",
+      "DARKSOLVS",
+      "DEMENTED HEART",
+      "KRAS"
+    ],
+    "location": "Madiun",
+    "venue": "Stadion Wilis, Jawa Timur",
+    "date": "15 Jul 2023",
+    "times": "12:00 - 23:00 WIB",
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230703064235_64a20b6b72f1a.jpg",
+    "sale": [
+      {
+        "id": 1,
+        "category": "Hordes Of Wariors Fest",
+        "price": 150000
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "headline": "TAKE ME HOME : 13 years of One Direction",
+    "artistName": ["One Direction"],
+    "location": "Yogyakarta",
+    "venue": "HALLU KITCHEN & LOUNGE, D.I. Yogyakarta",
+    "date": "07 Jun - 22 Jul 2023",
+    "times": "17:00 - 23:00 WIB",
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230221165943_63f4960f8f048.jpg",
+    "sale": [
+      {
+        "id": 1,
+        "category": "UP ALL NIGHT",
+        "price": 85000
+      },
+      {
+        "id": 2,
+        "category": "TAKE ME HOME",
+        "price": 99000
+      },
+      {
+        "id": 3,
+        "category": "MIDNIGHT MEMORIES",
+        "price": 280000
+      },
+      {
+        "id": 4,
+        "category": "FOUR",
+        "price": 475000
+      },
+      {
+        "id": 5,
+        "category": "MADE IN THE A.M",
+        "price": 925000
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "headline": "Judika @ Ngopibareng Pintulangit",
+    "artistName": ["Judika"],
+    "location": "Pasuruan",
+    "venue": "Ngopibareng Pintulangit, Jawa Timur",
+    "date": "23 Jul 2023",
+    "times": "19:00 - 22:00 WIB",
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230609082358_64827f2e01696.jpg",
+    "posterUrl2": "https://loket-production-sg.s3.ap-southeast-1.amazonaws.com/images/temporary/20230616/1686891831_kyHmwj.jpg?eyJpdiI6IkxNSTBCcTZSM25jTXUzTUhCeWc1WEE9PSIsInZhbHVlIjoiaHgybHdmXC8rNkN6c2MzbFROWWFDcXhKbW9hVHBrRVVJQ0JrUW5UQUZscjdwa2dIWkxEY09iREdPS01pT1pVK0M2a2RXUkRVems2Mm9cLzRcL2U2RmRJamlXd0hvRzJcL3VyVHBYU0FocTVpYnVlSTdQVkZhYXBnejEwbklsNXJtNmxmR0hma0thcGd6UzRzZksxVFNHN1wvSGc9PSIsIm1hYyI6Ijc0NzdjMWYxOGI4MTg5NTFhNDJmNTJhNTY3MTk2NjE4ZWVhYmU3MzFhNTBkNjY0ODhkMDlkMDllNjFiYTU0ZTIifQ==",
+    "sale": [
+      {
+        "id": 1,
+        "category": "VVIP Judika @ Ngopibareng Pintulangit (Berdiri)",
+        "price": 200000
+      },
+      {
+        "id": 2,
+        "category": "VIP Judika @ Ngopibareng Pintulangit (Berdiri)",
+        "price": 100000
+      },
+      {
+        "id": 3,
+        "category": "Tribun Judika @ Ngopibareng Pintulangit (Duduk)",
+        "price": 75000
+      },
+      {
+        "id": 4,
+        "category": "Festival Judika @ NgopibarengPintulangit (Berdiri)",
+        "price": 50000
+      },
+      {
+        "id": 5,
+        "category": "Judika @ Ngopibareng Pintulangit TIKET ANAK",
+        "price": 25000
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "headline": "WE THE FEST 2023",
+    "artistName": [
+      "THE STROKES",
+      "THE 1975",
+      "THE KID LAROI",
+      "LEWIS CAPALDI",
+      "DANIEL CAESAR",
+      "ALEXANDER 23",
+      "COKELAT",
+      "DAVID BAYU",
+      "DERMOT KENNEDY",
+      "DEVITA",
+      "DHRUV",
+      "ELDERBROOK",
+      "GIGI",
+      "GRYFFIN (LIVE)",
+      "JAKE SCOTT",
+      "KAHITNA",
+      "LEEHI",
+      "MALIQ & D’ESSENTIALS",
+      "NxWORRIES (Anderson .Paak and Knxwledge)",
+      "PEACH TREE RASCALS",
+      "PORTER ROBINSON (LIVE)",
+      "PROJECT POP",
+      "RINI",
+      "SABRINA CARPENTER",
+      "SORN feat. SEUNGYEON & DENISE JULIA",
+      "TY DOLLA $IGN, YURA YUNITA",
+      "ZIVA MAGNOLYA",
+      "ALI, ALYPH feat. A. NAYAKA & BEN UTOMO",
+      "ARUMA",
+      "BARASUARA",
+      "EFEK RUMAH KACA",
+      "HINDIA",
+      "KUNTO AJI",
+      "KUROSUKE",
+      "LOMBA SIHIR",
+      "MIKHA ANGELO",
+      "MOCCA",
+      "RAFI SUDIRMAN",
+      "ROCK N ROLL MAFIA",
+      "SAJAMA CUT",
+      "SYARIKAT IDOLA REMAJA",
+      "THE ADAMS",
+      "THE CHANGCUTERS "
+    ],
+    "location": "Jakarta",
+    "venue": "GBK Sport Complex - Senayan Jakarta, DKI Jakarta",
+    "date": "21 Jul - 23 Jul 2023",
+    "times": "15:00 - 23:00 WIB",
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230411010255_64344f4f3ab19.jpg",
+    "posterUrl2": "https://cms-dashboard.wethefest.com/app/uploads/2023/06/WTF23-KV-Phase-3-Lineup_WTF-Website-2512x816-1-1-1-scaled.jpg",
+    "sale": [
+      {
+        "id": 1,
+        "category": "3 DAY PASS - GA Group Package Presale 6",
+        "price": 11250000
+      },
+      {
+        "id": 2,
+        "category": "3 DAY PASS - VIB Group Package Presale 4",
+        "price": 20000000
+      },
+      {
+        "id": 3,
+        "category": "3 DAY PASS - VIB Group Package Presale 5",
+        "price": 21500000
+      },
+      {
+        "id": 4,
+        "category": "Day 1 - GA Presale 4 (21 Jul 2023)",
+        "price": 1350000
+      },
+      {
+        "id": 5,
+        "category": "Day 2 - GA Presale 4 (22 Jul 2023)",
+        "price": 1350000
+      },
+      {
+        "id": 6,
+        "category": "Day 3 - GA Presale 4 (23 Jul 2023)",
+        "price": 1350000
+      },
+      {
+        "id": 7,
+        "category": "Day 1 - GA Early Entry Presale 2 (21 Jul 2023)",
+        "price": 990000
+      },
+      {
+        "id": 8,
+        "category": "Day 2 - GA Early Entry Presale 2 (22 Jul 2023)",
+        "price": 990000
+      },
+      {
+        "id": 9,
+        "category": "Day 3 - GA Early Entry Presale 2 (23 Jul 2023)",
+        "price": 990000
+      },
+      {
+        "id": 10,
+        "category": "Day 1 - VIB Presale 3 (21 Jul 2023)",
+        "price": 2000000
+      },
+      {
+        "id": 11,
+        "category": "Day 2 - VIB Presale 3 (22 Jul 2023)",
+        "price": 2000000
+      },
+      {
+        "id": 12,
+        "category": "Day 3 - VIB Presale 3 (23 Jul 2023)",
+        "price": 2000000
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "headline": "Efek Rumah Kaca: Rimpang Concert - Plainsong Live",
+    "artistName": ["EFEK RUMAH KACA"],
+    "location": "Jakarta",
+    "venue": "GBK Tennis Indoor Stadium, DKI Jakarta",
+    "date": "27 Jul 2023",
+    "times": "19:30 - 22:30 WIB",
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230527104325.png",
+    "posterUrl2": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/seating_chart/20230528080100.png",
+    "sale": [
+      {
+        "id": 1,
+        "category": "FESTIVAL EARLY BIRD",
+        "price": 288000
+      },
+      {
+        "id": 2,
+        "category": "FESTIVAL",
+        "price": 318000
+      },
+      {
+        "id": 3,
+        "category": "FESTIVAL (WHEELCHAIR AREA)",
+        "price": 318000
+      },
+      {
+        "id": 4,
+        "category": "TRIBUNE A",
+        "price": 708000
+      },
+      {
+        "id": 5,
+        "category": "TRIBUNE B",
+        "price": 358000
+      },
+      {
+        "id": 6,
+        "category": "TRIBUNE C",
+        "price": 298000
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "headline": "FLASHBACK motion - Validating",
+    "artistName": ["Padi Reborn", "D'Rany Feat Marcello Tahitoe"],
+    "location": "Jakarta",
+    "venue": "Bengkel Space SCBD, DKI Jakarta",
+    "date": "09 Aug 2023",
+    "times": "18:00 - 23:00 WIB",
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230625202750_649840d697603.jpg",
+    "posterUrl2": "https://loket-production-sg.s3.ap-southeast-1.amazonaws.com/images/temporary/20230625/1687706510_4MbYGL.png?eyJpdiI6Im93SWRxQjNSVmZUQ1Y0elBIaFJDeHc9PSIsInZhbHVlIjoiWU4zVUdrS21EQVBcL2R4UTFYNW05cGxReHVqejZPdW5WamFSNEkwczhcL0E3cEprV2JzZ1g0cXZ4ek5OMlwvUEEyY0tWQmxqMExwOTJncXBPcE1zSEhxWHZOYldUTnV4VXg1SVNGaUFXdHo4a0NIVzhVNmdFSW5rWHBRT3J0andIS2pweW5BSnNPZkFjdzFCUFJIUUlXT1FRPT0iLCJtYWMiOiI3MjUwYzI4Y2ZjYmMwZWI0Mzc5NjJhMGY3OWY3ZWU1MmE1MTJlOTlkZWI2NmQyM2VkNzdhNDYxOTYyN2ZmZjcwIn0=",
+    "sale": [
+      {
+        "id": 1,
+        "category": "FREE SEATING",
+        "price": 1177000
+      },
+      {
+        "id": 2,
+        "category": "FESTIVAL - Pre Sale 1",
+        "price": 397000
+      },
+      {
+        "id": 3,
+        "category": "FESTIVAL - Pre Sale 2",
+        "price": 567000
+      },
+      {
+        "id": 4,
+        "category": "FESTIVAL",
+        "price": 789000
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "headline": "Musik Loe-GIS",
+    "artistName": ["Mahalini"],
+    "location": "Banten",
+    "venue": "Lapangan Hitam Taman Kopassus, Banten",
+    "date": "26 Aug 2023",
+    "times": "18:00 - 23:00 WIB",
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230610172454_64844f7631b57.jpg",
+    "sale": [
+      {
+        "id": 1,
+        "category": "Pre-Sale 1",
+        "price": 100000
+      },
+      {
+        "id": 2,
+        "category": "Pre-Sale 2",
+        "price": 120000
+      },
+      {
+        "id": 3,
+        "category": "Pre-Sale 3",
+        "price": 135000
+      },
+      {
+        "id": 4,
+        "category": "VIP",
+        "price": 500000
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "headline": "Senggigi Sunset Jazz 2023",
+    "artistName": [
+      "Melly Goeslaw",
+      "Namone Sarre",
+      "Nadin Amizah",
+      "Dikta Wicaksono",
+      "Diskoria",
+      "Gitalia KDI feat. Suradipa Project"
+    ],
+    "location": "Lombok",
+    "times": "15:00 - 23:00 WIB",
+    "venue": "Pantai Kerandangan, Nusa Tenggara Barat",
+    "date": "20 Aug 2023",
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230610172454_64844f7631b57.jpg",
+    "sale": [
+      {
+        "id": 1,
+        "category": "Pre-Sale 1",
+        "price": 100000
+      },
+      {
+        "id": 2,
+        "category": "Pre-Sale 2",
+        "price": 120000
+      },
+      {
+        "id": 3,
+        "category": "Pre-Sale 3",
+        "price": 135000
+      },
+      {
+        "id": 4,
+        "category": "VIP",
+        "price": 500000
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "headline": "PESTA RAKYAT MERDEKA KHUSUS XFRIEND",
+    "artistName": ["Tipe-X"],
+    "location": "Gresik",
+    "venue": "GKB CONVEX, Jawa Timur",
+    "date": "30 Jul 2023",
+    "times": "13:00 - 17:00 WIB",
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230708101626_64a8d50a05981.jpg",
+    "sale": [
+      {
+        "id": 1,
+        "category": "PRESALE UMUM",
+        "price": 150000
+      },
+      {
+        "id": 2,
+        "category": "HARGA NORMAL",
+        "price": 200000
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "headline": "DEEP ROCK FEST 2023",
+    "artistName": ["STRAIGHT ANSWER JAKARTA", "KRAS", "MOUTHLESS", "TRAINER"],
+    "location": "Jakarta",
+    "venue": "Rossi Musik Fatmawati, DKI Jakarta",
+    "date": "29 Jul 2023",
+    "times": "10:30 - 16:30 WIB",
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230526133715_6470539b24fae.jpg",
+    "sale": [
+      {
+        "id": 1,
+        "category": "DEEP ROCK FEST 2023 (PRE SALE 1)",
+        "price": 50000
+      },
+      {
+        "id": 2,
+        "category": "DEEP ROCK FEST (PRE SALE)",
+        "price": 75000
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "headline": "DEEP ROCK FEST 2023",
+    "artistName": ["STRAIGHT ANSWER JAKARTA", "KRAS", "MOUTHLESS", "TRAINER"],
+    "location": "Jakarta",
+    "venue": "Rossi Musik Fatmawati, DKI Jakarta",
+    "date": "29 Jul 2023",
+    "times": "10:30 - 16:30 WIB",
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230526133715_6470539b24fae.jpg",
+    "sale": [
+      {
+        "id": 1,
+        "category": "DEEP ROCK FEST 2023 (PRE SALE 1)",
+        "price": 50000
+      },
+      {
+        "id": 2,
+        "category": "DEEP ROCK FEST (PRE SALE)",
+        "price": 75000
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "headline": "Konser Legend Musik Era'Ku",
+    "artistName": [
+      "ATIEK CB",
+      "ITA PURNAMASARI",
+      "MAYANGSARI",
+      "RONIE SIANTURI"
+    ],
+    "location": "Jakarta",
+    "venue": "Balai Sarbini, DKI Jakarta",
+    "date": "05 Aug 2023",
+    "times": "19:00 - 22:00 WIB",
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230529221515_6474c183783f4.jpg",
+    "posterUrl2": "https://loket-production-sg.s3.ap-southeast-1.amazonaws.com/images/temporary/20230614/1686739472_hl0boA.jpg?eyJpdiI6ImJQU1NOalJTWUZ4b2VSckFnaExXcnc9PSIsInZhbHVlIjoibVBINkN6WEN4aHdKZEY1d21MU2R5amw2Wmx6b1k2emZlVExDc0hRZERuZGQyUjJuOVNXdFN2YkNoTThOU0lTN0tCVlVYWmVtS2dpV0VuSUV0bmVpWEZZSDNaK1pMYWlhWnFNbjF2a0FJU1wvXC9ZNUFcL01PZlFmc0VuTXFCaEhCMEJoYzZyYTFOZFpDNDl4NnhEU256ZUdBPT0iLCJtYWMiOiI1YTQ4MzIwYmE2NTI3MWVmNTIyMDIzZGMxMDhlZmQyYTIwM2I3NzY0MTFhZjg0ODZlOGZlNzhhN2M5ZWZjOTkyIn0=",
+    "sale": [
+      {
+        "id": 1,
+        "category": "Bronze",
+        "price": 900000
+      },
+      {
+        "id": 2,
+        "category": "Silver",
+        "price": 1200000
+      },
+      {
+        "id": 3,
+        "category": "Gold",
+        "price": 1700000
+      },
+      {
+        "id": 4,
+        "category": "VIP",
+        "price": 2000000
+      },
+      {
+        "id": 5,
+        "category": "VVIP",
+        "price": 3000000
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "headline": "DoReMi Fest",
+    "artistName": ["Budi Doremi"],
+    "location": "Surakarta",
+    "venue": "Gedung Djoeang'45, Jawa Tengah",
+    "date": "05 Aug 2023",
+    "times": "20:00 - 22:30 WIB",
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230415141941_643a500d63282.jpg",
+    "posterUrl2": "https://loket-production-sg.s3.ap-southeast-1.amazonaws.com/images/temporary/20230609/1686273337_sQb7py.png?eyJpdiI6ImR0TDg0UDZJYndjXC9SWjRZZjJCSnRBPT0iLCJ2YWx1ZSI6IkxQd2xsaEhcL1RLclZXZTc0K25UenlyUFhUME1YYmN6NmtERGxkUnZqZFk1RXlzUTZXTEJOQ05nVFpXZ1dMMG1cL0dzMVhEUG1ySEtMQnFFNHdaVVNJRm1xZE9odGE1UkJmNCtXY3Q3Z2hHZGticjJHRm4zMCtlTFhaMkNRWDc5OE5MTU9OT0E2UGdOajZFYVpFNklqZjdRPT0iLCJtYWMiOiJhNmM0MTgwZmFiNjUwN2UyMTZmMWFjMzFhZGE0NmEwYmUzNzlkY2FmZjBhZTgwNzM3NTM0NWUzMmZiYTUyMmZlIn0=",
+    "sale": [
+      {
+        "id": 1,
+        "category": "Regular VVIP",
+        "price": 1000000
+      },
+      {
+        "id": 2,
+        "category": "Regular VIP",
+        "price": 400000
+      },
+      {
+        "id": 3,
+        "category": "Regular Gold",
+        "price": 250000
+      },
+      {
+        "id": 4,
+        "category": "Regular Festival",
+        "price": 150000
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "headline": "Projek-D Vol. 2",
+    "artistName": [
+      "For Revenge",
+      "JKT 48",
+      "Kuburan",
+      "NDK Aka",
+      "Nidji",
+      "Olski",
+      "Parade Hujan",
+      "Prontaxan",
+      "Skastra",
+      "Club Dangdut Racun X Aldi Taher",
+      "Dikta Wicaksono",
+      "Guyon Waton",
+      "Lomba Sihir",
+      "MALIQ & D’ESSENTIALS",
+      "The Melting Minds",
+      "Opick",
+      "Raissa Angiani",
+      "Skandal",
+      "Tipe-X"
+    ],
+    "location": "Karanganyar",
+    "venue": "De Tjolomadoe, Jawa Tengah",
+    "date": "05 Aug - 06 Aug 2023",
+    "times": "14:00 - 23:59 WIB",
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230531061656.png",
+    "sale": [
+      {
+        "id": 1,
+        "category": "2 Days Pass (Presale 2)",
+        "price": 1000000
+      },
+      {
+        "id": 2,
+        "category": "2 Days Pass (Regular)",
+        "price": 400000
+      },
+      {
+        "id": 3,
+        "category": "Daily Pass Sabtu (Presale 2)",
+        "price": 250000
+      },
+      {
+        "id": 4,
+        "category": "Daily Pass Sabtu (Regular)",
+        "price": 150000
+      },
+      {
+        "id": 5,
+        "category": "Daily Pass Minggu (Presale 2)",
+        "price": 150000
+      },
+      {
+        "id": 6,
+        "category": "Daily Pass Minggu (Regular)",
+        "price": 150000
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "headline": "JOYLAND JAKARTA 2023",
+    "artistName": [
+      "Interpol",
+      "Alvvays",
+      "Bloc Party",
+      "Benny Sings",
+      "Homeshake",
+      "Last Dinosaurus",
+      "Mild Life",
+      "MALIQ & D’ESSENTIALS",
+      "Ortoboke Beaver",
+      "The Beths"
+    ],
+    "location": "Jakarta",
+    "venue": "Senayan, DKI Jakarta",
+    "date": "24 Nov - 26 Nov 2023",
+    "times": "15:00 - 23:00 WIB",
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230604123900.jpg",
+    "sale": [
+      {
+        "id": 1,
+        "category": "PRESALE 1 : 3 Day Pass Reguler Entry",
+        "price": 488000
+      },
+      {
+        "id": 2,
+        "category": "PRESALE 2 : 3 Day Pass Reguler Entry",
+        "price": 688000
+      },
+      {
+        "id": 3,
+        "category": "PRESALE 3 : Early Entry 3 Day Pass",
+        "price": 788000
+      },
+      {
+        "id": 4,
+        "category": "PRESALE 3 : 3 Day Pass Reguler Entry",
+        "price": 888000
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "headline": "COLD PLAY MUSIC of the SPHERES",
+    "artistName": ["Cold Play"],
+    "location": "Jakarta",
+    "venue": "Gelora Bung Karno, DKI Jakarta",
+    "date": "15 Nov 2023",
+    "times": "-",
+    "posterUrl1": "https://assets.loket.com/imgdir/2023-05-05/48/48f966262aea4deda759e8353bf5cabc2a0ac6a3127393267168104395.jpg",
+    "posterUrl2": "https://assets.loket.com/imgdir/2023-05-11/b4/b427b1902f4a15328dc10d333617db1052ad774d39963950818547113.jpg",
+    "sale": [
+      {
+        "id": 1,
+        "category": "ULTIMATE EXPERIENCE (CAT 1)",
+        "price": 11000000
+      },
+      {
+        "id": 2,
+        "category": "MY UNIVERSE (FESTIVAL)",
+        "price": 5700000
+      },
+      {
+        "id": 3,
+        "category": "CAT 1 (NUMBERED SEATING)",
+        "price": 5000000
+      },
+      {
+        "id": 4,
+        "category": "FESTIVAL (FREE STANDING)",
+        "price": 3500000
+      },
+      {
+        "id": 5,
+        "category": "CAT 2 (NUMBERED SEATING)",
+        "price": 4000000
+      },
+      {
+        "id": 6,
+        "category": "CAT 3 (NUMBERED SEATING)",
+        "price": 3250000
+      },
+      {
+        "id": 7,
+        "category": "CAT 4 (NUMBERED SEATING)",
+        "price": 2500000
+      },
+      {
+        "id": 8,
+        "category": "CAT 5 (NUMBERED SEATING)",
+        "price": 1750000
+      },
+      {
+        "id": 9,
+        "category": "CAT 6 (NUMBERED SEATING))",
+        "price": 1250000
+      },
+      {
+        "id": 10,
+        "category": "CAT 7 (NUMBERED SEATING)",
+        "price": 1250000
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "headline": "Ronan Keating Concert Live in Indonesia",
+    "artistName": ["Ronan", "Boyzone", "Putri Ariani"],
+    "location": "Jakarta",
+    "venue": "Grand Ballrom Pullman Hotel Central Park, DKI Jakarta",
+    "date": "18 Aug 2023",
+    "times": "19:30 - 23:55 WIB",
+    "posterUrl1": "https://loket-production-sg.s3.ap-southeast-1.amazonaws.com/images/temporary/20230706/1688576725_2uX7tH.jpg?eyJpdiI6InFGNjJNNXFqRmxuVXRld3FYdjFhSUE9PSIsInZhbHVlIjoid2lmU29DakdpZTFZSXRFU3JJczVNSkZYd2hDM0UrVWN4MGxPTkx1RXRsY2RLT1V5bmxsbEJwY001RnNicmZhblh4eHN4aUtMaVpNZmppY3FQMjMyd1R4TTE3VFZNYUtcL0lRM1VueCttUkhZTGc0YTN5XC9FTXRBZjArNXZOU2h4XC9VbDBPRHJzTHYyc2dZbmtoSU9Wbm5BPT0iLCJtYWMiOiIxNGM0MTFiZjVmNWQ2NGI0Zjg4OGQ3NTMwNzFiN2UxZjRmYzY3NDkzYzU0ZTYwMTBkZDk1M2JmZjQxNzNkNjAxIn0=",
+    "sale": [
+      {
+        "id": 1,
+        "category": "FESTIVAL (standing area)",
+        "price": 720000
+      },
+      {
+        "id": 2,
+        "category": "SILVER (free seating)",
+        "price": 1620000
+      },
+      {
+        "id": 3,
+        "category": "GOLD (seat number)",
+        "price": 2100000
+      },
+      {
+        "id": 4,
+        "category": "DIAMOND (seat number)",
+        "price": 3300000
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "headline": "Bruno Major Tour of Planet Earth",
+    "artistName": ["Bruno Major"],
+    "location": "Jakarta",
+    "venue": "GBK Baskethall, DKI Jakarta",
+    "date": "19 Aug 2023",
+    "times": "20:00 - 22:00 WIB",
+    "posterUrl1": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20230505080808.png",
+    "sale": [
+      {
+        "id": 1,
+        "category": "GENERAL SALES : Festival A",
+        "price": 990000
+      },
+      {
+        "id": 2,
+        "category": "GENERAL SALES : Festival B",
+        "price": 790000
+      },
+      {
+        "id": 3,
+        "category": "GENERAL SALES : Tribune A Right",
+        "price": 890000
+      },
+      {
+        "id": 4,
+        "category": "GENERAL SALES : Tribune A Left",
+        "price": 890000
+      },
+      {
+        "id": 5,
+        "category": "GENERAL SALES : Tribune B Right",
+        "price": 690000
+      },
+      {
+        "id": 6,
+        "category": "GENERAL SALES : Tribune B Left",
+        "price": 690000
+      }
+    ]
+  }
+]
